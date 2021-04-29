@@ -1,8 +1,0 @@
-[run]
-branch = True
-source = kmodes
-include = */kmodes/*
-omit =
-    */tests/*
-    */examples/*
-    */setup.py
